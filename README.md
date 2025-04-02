@@ -106,9 +106,9 @@ We experimented with **multiple regression models**, and **XGBoost** outperforme
 ---
 
 ## 🤝 **Contributors**
-👤 **Nava Bhargav Gedda**  
-📩 [navabhargavg@gmail.com](mailto:navabhargavg@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/nava-bhargav-gedda-4a4a30151) | 🌐 [GitHub](https://github.com/Navabhargav)  
+👤 **Prajwal Suryaa Prakash**  
+📩 [prajwalsuryaprakash@gmail.com](mailto:prajwalsuryaprakash@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/prajwal-surya-prakash-7bb980246/) | 🌐 [GitHub](https://github.com/Navabhargav)  
 
 
 
